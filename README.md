@@ -3,14 +3,16 @@
 - 🌱 The bootcamp is a Full-stack @ Mindera, and we are developing software in Java and JavaScript.
 
 - 💞️ I have worked with:
-- Relational and Non-Relational Databases: MySQL and MongoDB.
+- Relational and Non-Relational Databases: MySQL, MongoDB, DynamoDB (Single Table Design) and Redis.
 - Docker
 - Git
-- Redis
 - Agile SCRUM
 - Maven
+- React.JS
+- Next.JS
 - Spring Boot(Data Persistence, security)
-- Postman, Inomnia, Studio 3T
+- Quarkus
+- Postman, Insomnia, Studio 3T
 
 
 - 📫 You can reach me at :
